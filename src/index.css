@@ -4,9 +4,15 @@
   font-style: normal;
   font-size: 30px;
   margin: 0;
+  padding: 0;
   background: linear-gradient(to right, #5ff4ff, #8a368d);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.title h1 {
+  padding: 0;
+  margin: 0 0px 20px;
 }
 
 .submit-buton input{
@@ -19,4 +25,18 @@
   border: 0;
   background-color: rgb(127, 219, 255);
   color: rgb(54, 49, 49);
+}
+
+
+.input-area textarea{
+  background-color: aliceblue;
+  border-radius: 30px;
+  padding: 30px;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  border: 1;
+  border-color: rgb(41, 153, 161);
+  margin-bottom: 15px;
 }
