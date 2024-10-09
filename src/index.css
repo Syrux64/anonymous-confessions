@@ -4,4 +4,19 @@
   font-style: normal;
   font-size: 30px;
   margin: 0;
+  background: linear-gradient(to right, #5ff4ff, #8a368d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.submit-buton input{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  padding: 0px 50px;
+  border-radius: 25px;
+  border: 0;
+  background-color: rgb(127, 219, 255);
+  color: rgb(54, 49, 49);
 }

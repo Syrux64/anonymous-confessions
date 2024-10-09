@@ -4,8 +4,8 @@
   text-align: center;
 }
 
-.title{
-  background: linear-gradient(to right, #5ff4ff, #8a368d);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+.submit-buton input{
+  padding: 15px 100px;
+  
 }
